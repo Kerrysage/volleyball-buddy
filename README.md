@@ -1,3 +1,7 @@
+
+## Volleyball-buddy
+This is an app that allows users to connect with other volleyball players in the area.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
