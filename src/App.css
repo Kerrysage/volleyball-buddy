@@ -2,8 +2,6 @@
   text-align: center;
 }
 
-
-
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -15,4 +13,24 @@
   color: white;
 }
 
+img {
+  width: 75px;
+  height: 95px;
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
 
+.LogoHeader {
+  color: rgb(247, 243, 243);
+  background-color: rgb(62, 189, 211);
+  text-shadow: 2px 2px #030d5e;
+  font-family: "Lucida Console", Times, serif;
+  font-size: 60px;
+  padding: 5px 50px 75px 100px;
+  background-image: url("./images/pileofballs.jpeg");
+  background-repeat: repeat;
+
+
+
+}
